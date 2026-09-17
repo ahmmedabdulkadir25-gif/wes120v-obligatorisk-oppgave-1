@@ -1,4 +1,4 @@
-\# Mitt WES120V-prosjekt
+&#x20;Mitt WES120V-prosjekt
 
 
 
@@ -17,6 +17,32 @@ Dette er et minimalt Vite-prosjekt laget som en del av WES120V.
 \- Node.js
 
 \- pnpm
+
+
+
+\## Installere og starte prosjektet
+
+
+
+Installer avhengighetene med:
+
+
+
+pnpm install
+
+
+
+Start utviklingsserveren med:
+
+
+
+pnpm dev
+
+
+
+Deretter kan prosjektet åpnes på adressen som Vite viser i terminalen.
+
+
 
 
 
