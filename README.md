@@ -42,7 +42,9 @@ pnpm dev
 
 Deretter kan prosjektet åpnes på adressen som Vite viser i terminalen.
 
+\## Prosjektstruktur
 
 
 
+Prosjektet bruker en enkel struktur med `index.html` som inngangspunkt for nettsiden.
 
